@@ -5,4 +5,4 @@
 - Brayan Eduardo Gomero Castillo 100%
 - Sanders Chancan Chanca 100%
 
-## Primera Entrega
+## Segunda Entrega
